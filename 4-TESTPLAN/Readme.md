@@ -4,7 +4,7 @@
 
 |Test ID | Description | Exp I/P | Exp O/P |
 |--------|-------------|---------|---------|
-|HLT1    | Game selction(size) | S,M  | One Result |
+|HLT1    | Game selction(size) | S,M,L | One Result |
 |HLT2    | Game selction (difficulty) | E,H | One Result |
 
 
