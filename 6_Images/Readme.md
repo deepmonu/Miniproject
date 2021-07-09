@@ -16,3 +16,6 @@
 
 ## Structural Diagram Low level
 ![struct2](https://user-images.githubusercontent.com/57475862/124814195-54b83400-df83-11eb-8344-141bf3140c2d.png)
+
+## SWOT ANALYSIS
+![swot analysis](https://user-images.githubusercontent.com/57475862/125032778-15393700-e0ac-11eb-9dc5-3287fda73489.png)
