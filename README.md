@@ -8,9 +8,9 @@ Battleship games introduce school kids to coordinates and grids in a hands-on ki
 
 
 # SDLC Activity Based Learning
-Build | Code Quality | Git Inspector |
-|---------|------------|-------------|
-[![C/C++ CI](https://github.com/MeherThanmaiee/Mini_Project/actions/workflows/c.yml/badge.svg)](https://github.com/MeherThanmaiee/Mini_Project/actions/workflows/c.yml)|[![Static Code Quality- Cppcheck](https://github.com/MeherThanmaiee/Mini_Project/actions/workflows/cpp.yml/badge.svg)](https://github.com/MeherThanmaiee/Mini_Project/actions/workflows/cpp.yml)|[![Contribution Check - Git Inspector](https://github.com/MeherThanmaiee/Mini_Project/actions/workflows/gitinspector.yml/badge.svg)](https://github.com/MeherThanmaiee/Mini_Project/actions/workflows/gitinspector.yml)
+|Build|Unit Test|cppcheck|Valgrind|Coverage|Code Quality Score
+|:--:|:--:|:--:|:--:|:--:|:--:|
+||[![Unit testing](https://github.com/aryanjaiswalaj/Mini-Project/actions/workflows/unit-testing.yml/badge.svg)](https://github.com/aryanjaiswalaj/Mini-Project/actions/workflows/unit-testing.yml)|[![cppcheck-action](https://github.com/aryanjaiswalaj/Mini-Project/actions/workflows/cppcheck.yml/badge.svg)](https://github.com/aryanjaiswalaj/Mini-Project/actions/workflows/cppcheck.yml)|[![Valgrind](https://github.com/aryanjaiswalaj/Mini-Project/actions/workflows/Valgrind.yml/badge.svg)](https://github.com/aryanjaiswalaj/Mini-Project/actions/workflows/Valgrind.yml)|[![CI-Coverage](https://github.com/aryanjaiswalaj/Mini-Project/actions/workflows/gcov.yml/badge.svg)](https://github.com/aryanjaiswalaj/Mini-Project/actions/workflows/gcov.yml)|[![Code Quality Score](https://www.code-inspector.com/project/24709/score/svg)|[![Code Grade](https://www.code-inspector.com/project/24709/status/svg)|
 
 ## Folder Structure
 Folder             | Description
